@@ -1,0 +1,108 @@
+2021-10-27 22:03:07 DEBUG TestBase:35 - Homepage opened successfully.
+2021-10-27 22:03:15 DEBUG TestBase:47 - Log in successful.
+2021-10-27 22:04:09 DEBUG TestBase:35 - Homepage opened successfully.
+2021-10-27 22:04:17 DEBUG TestBase:47 - Log in successful.
+2021-10-27 23:30:44 DEBUG TestBase:35 - Homepage opened successfully.
+2021-10-27 23:35:58 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-27 23:36:41 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-27 23:36:50 DEBUG TestBase:46 - Log in successful.
+2021-10-27 23:59:19 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-27 23:59:29 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:01:43 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:01:55 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:03:00 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:03:12 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:06:16 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:06:36 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:08:11 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:08:47 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:08:54 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:08:56 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:13:55 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:14:09 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:14:26 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:14:29 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:15:40 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:15:50 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:15:55 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:15:57 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:18:59 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:19:10 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:19:15 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:19:17 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:19:56 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:20:05 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:20:11 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:20:12 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:21:39 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:21:48 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:21:54 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:22:01 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:28:52 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:29:01 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:29:08 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:29:10 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:30:54 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:31:04 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:31:10 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:31:12 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:31:31 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:31:51 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:32:00 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:32:05 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:32:07 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:32:40 DEBUG TestBase:78 - Product price matches with the cart price.
+2021-10-28 00:57:26 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:57:35 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:57:43 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:57:45 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:57:58 DEBUG TestBase:78 - Product price matches with the cart price.
+2021-10-28 00:58:01 DEBUG TestBase:87 - Product quantity increased successfully.
+2021-10-28 00:59:10 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 00:59:19 DEBUG TestBase:46 - Log in successful.
+2021-10-28 00:59:24 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 00:59:27 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 00:59:57 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:00:08 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:00:14 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 01:00:16 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 01:00:42 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:00:54 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:01:04 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:01:09 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 01:01:10 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 01:02:35 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:02:50 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:02:59 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:03:05 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 01:03:06 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 01:03:20 DEBUG TestBase:79 - Product price matches with the cart price.
+2021-10-28 01:03:23 DEBUG TestBase:88 - Product quantity increased successfully.
+2021-10-28 01:04:01 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:04:10 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:04:16 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 01:04:17 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 01:04:37 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:04:46 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:04:52 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 01:04:53 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 01:05:07 DEBUG TestBase:79 - Product price matches with the cart price.
+2021-10-28 01:05:10 DEBUG TestBase:88 - Product quantity increased successfully.
+2021-10-28 01:05:40 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:05:51 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:05:56 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 01:05:57 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 01:06:11 DEBUG TestBase:79 - Product price matches with the cart price.
+2021-10-28 01:06:15 DEBUG TestBase:88 - Product quantity increased successfully.
+2021-10-28 01:06:19 DEBUG TestBase:98 - Product has been removed from the cart successfully.
+2021-10-28 01:09:05 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:09:12 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:09:39 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:09:48 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:10:49 DEBUG TestBase:34 - Homepage opened successfully.
+2021-10-28 01:11:17 DEBUG TestBase:46 - Log in successful.
+2021-10-28 01:11:23 DEBUG TestBase:57 - Search page opened successfully.
+2021-10-28 01:11:24 DEBUG TestBase:63 - More elements clicked successfully.
+2021-10-28 01:11:49 DEBUG TestBase:79 - Product price matches with the cart price.
+2021-10-28 01:11:52 DEBUG TestBase:88 - Product quantity increased successfully.
+2021-10-28 01:11:56 DEBUG TestBase:98 - Product has been removed from the cart successfully.
